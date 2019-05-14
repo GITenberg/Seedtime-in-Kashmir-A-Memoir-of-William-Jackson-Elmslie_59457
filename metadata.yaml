@@ -1,5 +1,8 @@
 _repo: Seedtime-in-Kashmir-A-Memoir-of-William-Jackson-Elmslie_59457
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59457-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Elmslie, Margaret Duncan
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '50462'
     url: http://www.gutenberg.org/2009/agents/50462
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59457#Seedtime-in-Kashmir-A-Memoir-of-William-Jackson-Elmslie
 gutenberg_issued: '2019-05-08'
 gutenberg_type: Text
 identifiers:
